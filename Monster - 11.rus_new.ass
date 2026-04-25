@@ -16,9 +16,9 @@ Video File: E:\Monster\[Figmentos] Monster 01-20\[Figmentos] Monster 11 - Kinder
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Century Gothic,36,&H00CAFFFF,&H00000000,&H0A2D0000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,20,20,20,204
-Style: Stuff,Century Gothic,36,&H00CAFFFF,&H00000000,&H0A2D0000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,20,20,20,204
-Style: Signs,Century Gothic,36,&H00CAFFFF,&H00000000,&H0A2D0000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,20,20,20,204
+Style: Default,Century Gothic,28,&H00CAFFFF,&H00000000,&H0A2D0000,&H00000000,-1,0,0,0,100,91.2,0,0,1,3,0,2,20,20,20,204
+Style: Stuff,Century Gothic,23,&H00CAFFFF,&H00000000,&H0A2D0000,&H00000000,-1,0,0,0,100,91.2,0,0,1,3,0,8,20,20,20,204
+Style: Signs,Century Gothic,20,&H00CAFFFF,&H00000000,&H0A2D0000,&H00000000,-1,0,0,0,100,91.2,0,0,1,3,0,2,20,20,20,204
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
