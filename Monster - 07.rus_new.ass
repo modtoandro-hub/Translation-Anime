@@ -16,7 +16,7 @@ YCbCr Matrix: TV.601
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Jesaya Free,32,&H00FFFFFF,&H000000FF,&H00101010,&H80303030,-1,0,0,0,100,100,0,0,1,1.5,0.75,2,10,10,40,1
+Style: Default,Century Gothic,28,&H00CAFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,91.2,0,0,1,1.0,0.2,2,20,20,20,204
 Style: Stuff,Century Gothic,23,&H00DBDBDB,&H00000000,&H00000000,&H00B1B1B1,-1,0,0,0,100,91.2,0,0,1,1.0,0.2,8,20,20,20,204
 Style: Signs,Century Gothic,20,&H00DBDBDB,&H00000000,&H00000000,&H00B1B1B1,-1,0,0,0,100,91.2,0,0,1,1.0,0.2,2,20,20,20,204
 
