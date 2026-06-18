@@ -1,0 +1,1340 @@
+EN_001 [0:00:02.23 - 0:00:28.29]
+EN: And I stood upon the sand of the sea, and saw a Monster rise up out of the sea,
+RU: NO_MATCH
+
+EN_002 [0:00:05.27 - 0:00:28.29]
+EN: having seven heads and ten horns, and upon his horns ten crowns,
+RU: NO_MATCH
+
+EN_003 [0:00:08.19 - 0:00:28.29]
+EN: And upon his head the name of blasphemy (...)
+RU: NO_MATCH
+
+EN_004 [0:00:11.19 - 0:00:28.29]
+EN: And they worshiped the dragon which gave power unto the Monster:
+RU: NO_MATCH
+
+EN_005 [0:00:14.20 - 0:00:28.29]
+EN: and they worshiped the Monster, saying,
+RU(6): Кто подобен зверю сему?
+
+EN_006 [0:00:17.20 - 0:00:28.29]
+EN: "Who is like unto the Monster?
+RU(6,7): Кто подобен зверю сему?\NИ кто может сразиться с ним?
+
+EN_007 [0:00:20.20 - 0:00:28.29]
+EN: Who is able to make war with him?"
+RU(6,7): Кто подобен зверю сему?\NИ кто может сразиться с ним?
+
+EN_008 [0:00:23.37 - 0:00:28.29]
+EN: < The Black Book of Johann, Revelation 13, #1-4 > 
+ This is an actual passage from the Bible with the word 
+ "beast" replaced with "monster," and "Ioanes" with "Johann."
+RU(6,7,8): Кто подобен зверю сему?\NИ кто может сразиться с ним?\N"Откровение апостола Иоанна Богослова, 13:1-4"
+
+EN_009 [0:00:36.82 - 0:00:38.07]
+EN: That was amazing!
+RU(9): Это было великолепно.
+
+EN_010 [0:00:38.07 - 0:00:40.53]
+EN: Yes, his skills are unmatched
+RU(10): Ага, как всегда.
+
+EN_011 [0:00:40.53 - 0:00:44.99]
+EN: I couldn't believe his speed, even when clipping 
+ that difficult cranial arterial mass!
+RU(11): Наложить зажим на церебральную\Nаневризму, да ещё в таком месте...
+
+EN_012 [0:00:44.99 - 0:00:45.95]
+EN: Yes.
+RU: NO_MATCH
+
+EN_013 [0:00:45.95 - 0:00:48.91]
+EN: That was a splendid operation, Herr Dr. Tenma.
+RU(13): Операция была великолепна, доктор Тэнма
+
+EN_014 [0:00:49.29 - 0:00:53.42]
+EN: I finally got to see what a genius Kenzou 
+ Tenma is with my own eyes.
+RU(14): Должен ещё раз отметить,\Nчто Кэндзо Тэнма действительно гений.
+
+EN_015 [0:00:53.96 - 0:00:56.38]
+EN: No, it was all due to everyone's hard work.
+RU: NO_MATCH
+
+EN_016 [0:00:56.38 - 0:00:57.67]
+EN: Thank you very much.
+RU(16): Большое спасибо.
+
+EN_017 [0:00:58.59 - 0:01:00.92]
+EN: I can't believe the sun is so high already...
+RU(17): Солнце уже так высоко?
+
+EN_018 [0:01:00.92 - 0:01:04.72]
+EN: Well, we did operate for six hours straight.
+RU(18): Да, всё-таки операция\Nдлилась 6 часов без перерыва.
+
+EN_019 [0:01:05.60 - 0:01:08.47]
+EN: There aren't any other patients today, so rest up.
+RU(19): Пациентов на сегодня нет.\NОтдохни хорошенько.
+
+EN_020 [0:01:36.96 - 0:01:39.12]
+EN: Hey, where is daddy?
+RU: NO_MATCH
+
+EN_021 [0:01:39.12 - 0:01:41.04]
+EN: What happened to daddy?
+RU(21): Что с ним?
+
+EN_022 [0:03:21.51 - 0:03:25.47]
+EN: Herr Dr. Tenma
+RU(65): Глава 1\NГерр ДОКТОР ТЭНМА
+
+EN_023 [0:03:26.47 - 0:03:30.89]
+EN: Düsseldorf 
+ (Germany)
+RU(66): 1986 г. Дюссельдорф (Германия)
+
+EN_024 [0:03:52.02 - 0:03:53.40]
+EN: Come on, wake up already.
+RU(70): Это 8-часовые новости.
+
+EN_025 [0:03:52.19 - 0:03:55.40]
+EN: Good morning.  This is the news at eight.
+RU: NO_MATCH
+
+EN_026 [0:03:54.11 - 0:03:55.98]
+EN: Wake up, Dr. Tenma.
+RU(71,72): Кэндзоо Тэнма\NОсновные события на сегодняшнее утро.
+
+EN_027 [0:03:55.50 - 0:03:58.92]
+EN: Kenzou Tenma
+RU(71): Кэндзоо Тэнма
+
+EN_028 [0:03:55.40 - 0:03:58.69]
+EN: We're here to bring you the following news.
+RU(71): Кэндзоо Тэнма
+
+EN_029 [0:04:01.53 - 0:04:03.70]
+EN: Don't you think the roles have been reversed?
+RU(74): Ева Хайнеман
+
+EN_030 [0:04:02.01 - 0:04:05.37]
+EN: Eva Heinemann
+RU(74,75): Ева Хайнеман\NБудить поцелуем надо такую принцессу как я.
+
+EN_031 [0:04:03.70 - 0:04:07.41]
+EN: It should be a princess like myself being woken with a kiss.
+RU(76): В начале выпуска - новости о беженце, герре Либерте.
+
+EN_032 [0:04:05.12 - 0:04:10.12]
+EN: First, the widespread news about the East German 
+ Foreign Trade Adviser, Mr. Liebert.
+RU: NO_MATCH
+
+EN_033 [0:04:08.37 - 0:04:10.70]
+EN: Oh, you are here, Eva?
+RU: NO_MATCH
+
+EN_034 [0:04:10.12 - 0:04:12.08]
+EN: Hello, Mr. Reimann from Düsseldorf.
+RU: NO_MATCH
+
+EN_035 [0:04:12.08 - 0:04:15.25]
+EN: You forgot about our date, didn't you, Kenzou?
+RU: NO_MATCH
+
+EN_036 [0:04:13.33 - 0:04:15.67]
+EN: We're here in Düsseldorf.
+RU: NO_MATCH
+
+EN_037 [0:04:15.88 - 0:04:18.75]
+EN: No, it's not that I forgot about it...
+RU(82): Недавно попросивший политического убежища Либерт,\Nбывший советник Министерства внешней торговли ГДР,
+
+EN_038 [0:04:16.83 - 0:04:21.42]
+EN: Now that the Foreign Trade Adviser who fled to West Germany...
+RU(82): Недавно попросивший политического убежища Либерт,\Nбывший советник Министерства внешней торговли ГДР,
+
+EN_039 [0:04:21.42 - 0:04:27.30]
+EN: Adviser Liebert made an appearance before the media with his family yesterday.
+RU: NO_MATCH
+
+EN_040 [0:04:27.55 - 0:04:30.01]
+EN: Mr. Liebert, without any sign of fatigue on his face...
+RU(84): Супруги Либерт со своими двойняшками позируют\Nфотографам. На их радостных лицах нет и следа усталости.
+
+EN_041 [0:04:30.01 - 0:04:33.43]
+EN: ...along with his twin son and daughter...
+RU(84): Супруги Либерт со своими двойняшками позируют\Nфотографам. На их радостных лицах нет и следа усталости.
+
+EN_042 [0:04:33.43 - 0:04:36.10]
+EN: ...appeared, smiling brightly.
+RU: NO_MATCH
+
+EN_043 [0:04:36.10 - 0:04:40.44]
+EN: His family is planning to stay here in Düsseldorf for some time...
+RU(85): Некоторое время семья останется\Nв Дюссельдорфе в предоставленой им резиденции.
+
+EN_044 [0:04:40.44 - 0:04:43.73]
+EN: ...and carry on with their daily lives in an apartment provided by our TV station.
+RU: NO_MATCH
+
+EN_045 [0:04:45.11 - 0:04:46.86]
+EN: I don't feel like I've slept at all...
+RU: NO_MATCH
+
+EN_046 [0:04:45.15 - 0:04:47.03]
+EN: Now, onto the next story.
+RU: NO_MATCH
+
+EN_047 [0:04:47.74 - 0:04:50.65]
+EN: Hey, wake up!
+RU(88,89): Эй! Нет, просыпайся. Вот новости про тебя.\NСостояние доставленного в клинику с опасной формой\Nцеребральной аневризмы оперного певца Розенбаха...
+
+EN_048 [0:04:49.11 - 0:04:51.95]
+EN: The famous opera singer, Mr. Rosenbach...
+RU(89): Состояние доставленного в клинику с опасной формой\Nцеребральной аневризмы оперного певца Розенбаха...
+
+EN_049 [0:04:50.65 - 0:04:51.86]
+EN: This one is about you!
+RU(89): Состояние доставленного в клинику с опасной формой\Nцеребральной аневризмы оперного певца Розенбаха...
+
+EN_050 [0:04:51.95 - 0:04:54.57]
+EN: ...collapsed yesterday due to an internal hemorrhage.
+RU: NO_MATCH
+
+EN_051 [0:04:54.57 - 0:04:57.37]
+EN: He is reported to be in stable condition after surgery.
+RU: NO_MATCH
+
+EN_052 [0:04:57.37 - 0:05:01.33]
+EN: Director Heinemann, from the Düsseldorf Eisler Memorial 
+ Hospital, participated in the operation...
+RU(91): Герр Хайнеман - директор клиники имени Айслера, где делалась операция, провёл пресс-конференцию.
+
+EN_053 [0:05:01.33 - 0:05:04.29]
+EN: ...and held a press conference a short time ago.
+RU: NO_MATCH
+
+EN_054 [0:05:04.50 - 0:05:08.92]
+EN: Mr. Rosenbach's diagnosis revealed that he suffered 
+ from a ruptured artery in the brain.
+RU(93): Доктор Хайнеман
+
+EN_055 [0:05:08.92 - 0:05:11.17]
+EN: The operation itself went accordingly.
+RU: NO_MATCH
+
+EN_056 [0:05:11.17 - 0:05:15.30]
+EN: The clipping went extremely well, too.
+RU(95): Зажим сосуда был проведён безукоризненно.
+
+EN_057 [0:05:15.80 - 0:05:18.55]
+EN: Mr. Rosenbach has numerous fans.
+RU: NO_MATCH
+
+EN_058 [0:05:18.55 - 0:05:19.85]
+EN: Do you think he'll make a full recovery?
+RU: NO_MATCH
+
+EN_059 [0:05:20.18 - 0:05:25.10]
+EN: Yes, we'll put forth every effort 
+ to recover his singing voice.
+RU(98): Да, мы сделали всё возможное, чтобы он\Nснова мог радовать публику своим голосом.
+
+EN_060 [0:05:25.64 - 0:05:31.48]
+EN: Dr. Heinemann's team has had success in 
+ numerous difficult operations to date.
+RU(99): Команда доктора Хайнемана успешно\Nпровела множество трудных операций.
+
+EN_061 [0:05:31.48 - 0:05:37.86]
+EN: But with this operation, we can now say that they have 
+ secured their position in the medical world in our country.
+RU: NO_MATCH
+
+EN_062 [0:05:37.86 - 0:05:40.03]
+EN: That is amazing, Kenzou!
+RU: NO_MATCH
+
+EN_063 [0:05:40.03 - 0:05:41.86]
+EN: The news wasn't about me...
+RU(102): Эти новости не обо мне, а о твоём папе.
+
+EN_064 [0:05:41.86 - 0:05:43.70]
+EN: It was about your father.
+RU: NO_MATCH
+
+EN_065 [0:05:43.70 - 0:05:45.08]
+EN: That is true, but...
+RU(103): Ну и что с того? Ведь это ты в составе команды \Nпапеньки провёл превосходную операцию.
+
+EN_066 [0:05:45.41 - 0:05:51.25]
+EN: It's because you performed a perfect surgery 
+ with my father's team last night.
+RU: NO_MATCH
+
+EN_067 [0:05:50.29 - 0:05:51.25]
+EN: In other news...
+RU(105): Папенька благодарен тебе.
+
+EN_068 [0:05:51.25 - 0:05:53.46]
+EN: I'm sure father appreciates your efforts.
+RU: NO_MATCH
+
+EN_069 [0:05:53.46 - 0:05:56.79]
+EN: You're responsible for improving the hospital's reputation.
+RU: NO_MATCH
+
+EN_070 [0:05:57.29 - 0:05:59.71]
+EN: I'm the one who should be thankful...
+RU: NO_MATCH
+
+EN_071 [0:05:59.71 - 0:06:04.68]
+EN: ...since it's thanks to your father that 
+ I can work like this in Germany.
+RU: NO_MATCH
+
+EN_072 [0:06:04.68 - 0:06:06.59]
+EN: Good luck, Kenzou.
+RU: NO_MATCH
+
+EN_073 [0:06:06.59 - 0:06:09.05]
+EN: I'm positive everything will work out fine 
+ if you follow in my father's footsteps.
+RU: NO_MATCH
+
+EN_074 [0:06:09.60 - 0:06:13.18]
+EN: It's only matter of time before my father becomes the chief director.
+RU: NO_MATCH
+
+EN_075 [0:06:13.18 - 0:06:15.98]
+EN: Then you'll soon be the head of the surgical department.
+RU(112): Тогда ты станешь главным хирургом,\Nи в будущем - директором клиники.
+
+EN_076 [0:06:15.98 - 0:06:18.06]
+EN: And eventually, a director.
+RU: NO_MATCH
+
+EN_077 [0:06:19.60 - 0:06:22.36]
+EN: That'll make me the wife of a director.
+RU: NO_MATCH
+
+EN_078 [0:06:22.36 - 0:06:23.98]
+EN: You better make me happy...
+RU(115): Тяготы жизни меня не устраивают.
+
+EN_079 [0:06:23.98 - 0:06:26.07]
+EN: ...because hardship doesn't suit me.
+RU: NO_MATCH
+
+EN_080 [0:06:27.24 - 0:06:28.82]
+EN: Should we leave?
+RU(117): Так мы идем? Или?..
+
+EN_081 [0:06:28.82 - 0:06:30.16]
+EN: Or should we...
+RU: NO_MATCH
+
+EN_082 [0:06:31.86 - 0:06:36.12]
+EN: ...the southern region will be rainy over the weekend.
+RU: NO_MATCH
+
+EN_083 [0:06:39.29 - 0:06:41.54]
+EN: Blood pressure, 128/64.
+RU: NO_MATCH
+
+EN_084 [0:06:41.96 - 0:06:42.87]
+EN: Retractor.
+RU: NO_MATCH
+
+EN_085 [0:06:45.92 - 0:06:48.34]
+EN: I'm going to make an incision in the pyramis now.
+RU: NO_MATCH
+
+EN_086 [0:06:55.13 - 0:06:58.76]
+EN: That was a perfect operation as usual, Dr. Tenma!
+RU: NO_MATCH
+
+EN_087 [0:06:58.76 - 0:07:00.31]
+EN: Thank you very much.
+RU: NO_MATCH
+
+EN_088 [0:07:00.44 - 0:07:03.02]
+EN: Dr. Becker
+RU(125): Но сдаётся мне, ты хорош не только в хирургии.
+
+EN_089 [0:07:00.43 - 0:07:03.31]
+EN: Although it doesn't seem like you're 
+ only good at operating on people...
+RU: NO_MATCH
+
+EN_090 [0:07:05.48 - 0:07:07.98]
+EN: You hold the position of chief at such a young age...
+RU(127): В твои годы - и уже зав. нейрохирургии,\Nлюбимчик директора и главного хирурга...
+
+EN_091 [0:07:07.98 - 0:07:10.40]
+EN: ...and both the director and the surgical head hold you in the high esteem.
+RU: NO_MATCH
+
+EN_092 [0:07:10.40 - 0:07:11.69]
+EN: And on top of that...
+RU(128): ...и кроме того, ты даже\Nукрал сердце директорской дочки.
+
+EN_093 [0:07:11.69 - 0:07:15.03]
+EN: ...you won the heart of the director's daughter.
+RU: NO_MATCH
+
+EN_094 [0:07:15.23 - 0:07:18.45]
+EN: What are you trying to say, Dr. Becker?
+RU: NO_MATCH
+
+EN_095 [0:07:18.45 - 0:07:22.24]
+EN: Sorry.  I don't mean anything bad.
+RU: NO_MATCH
+
+EN_096 [0:07:22.24 - 0:07:24.24]
+EN: Because a hospital is just a world of politics.
+RU: NO_MATCH
+
+EN_097 [0:07:25.58 - 0:07:29.96]
+EN: You know full well that you're being 
+ used by the director, right?
+RU: NO_MATCH
+
+EN_098 [0:07:29.96 - 0:07:32.96]
+EN: The operation that you performed 
+ successfully on the opera singer...
+RU: NO_MATCH
+
+EN_099 [0:07:32.96 - 0:07:37.38]
+EN: He held a press conference on TV 
+ as if he did everything himself.
+RU: NO_MATCH
+
+EN_100 [0:07:38.34 - 0:07:42.63]
+EN: Although it means you have talent, if you're being used.
+RU: NO_MATCH
+
+EN_101 [0:07:42.63 - 0:07:45.43]
+EN: When you get promoted, put in a good word for me.
+RU: NO_MATCH
+
+EN_102 [0:07:46.34 - 0:07:48.05]
+EN: I'll treat you sometime, okay?
+RU: NO_MATCH
+
+EN_103 [0:08:12.07 - 0:08:14.45]
+EN: Umm, may I help you?
+RU: NO_MATCH
+
+EN_104 [0:08:14.45 - 0:08:16.62]
+EN: You're Dr. Tenma?
+RU: NO_MATCH
+
+EN_105 [0:08:16.62 - 0:08:17.29]
+EN: Yes.
+RU: NO_MATCH
+
+EN_106 [0:08:18.50 - 0:08:20.00]
+EN: Give me back my husband.
+RU: NO_MATCH
+
+EN_107 [0:08:23.42 - 0:08:25.59]
+EN: Give him back!
+RU: NO_MATCH
+
+EN_108 [0:08:26.75 - 0:08:30.09]
+EN: Why didn't you operate on my husband?!
+RU: NO_MATCH
+
+EN_109 [0:08:30.09 - 0:08:31.21]
+EN: Y-You are...?
+RU: NO_MATCH
+
+EN_110 [0:08:31.51 - 0:08:35.39]
+EN: My husband was brought into the hospital first!
+RU: NO_MATCH
+
+EN_111 [0:08:35.39 - 0:08:38.85]
+EN: He was brought in long before that stupid opera singer!
+RU: NO_MATCH
+
+EN_112 [0:08:38.85 - 0:08:41.10]
+EN: But you guys pushed him back!
+RU: NO_MATCH
+
+EN_113 [0:08:42.64 - 0:08:46.27]
+EN: Aren't you the most skilled doctor in this hospital?!
+RU: NO_MATCH
+
+EN_114 [0:08:47.02 - 0:08:47.81]
+EN: So why?
+RU(150): Почему? Почему??
+
+EN_115 [0:08:48.27 - 0:08:50.94]
+EN: Why?!
+RU: NO_MATCH
+
+EN_116 [0:08:51.90 - 0:08:53.61]
+EN: It was then I recalled that....
+RU(152): В тот раз я готовился...
+
+EN_117 [0:08:55.11 - 0:08:59.03]
+EN: I was going to operate on a Turkish man who 
+ got injured in a construction accident.
+RU: NO_MATCH
+
+EN_118 [0:08:59.91 - 0:09:01.57]
+EN: Dr. Tenma!
+RU: NO_MATCH
+
+EN_119 [0:09:01.57 - 0:09:02.32]
+EN: Yes?
+RU(157): Вы оперируете не здесь.
+
+EN_120 [0:09:02.82 - 0:09:04.37]
+EN: This isn't your operation.
+RU: NO_MATCH
+
+EN_121 [0:09:04.37 - 0:09:06.70]
+EN: Hurry up and go to operating room #1.
+RU: NO_MATCH
+
+EN_122 [0:09:07.37 - 0:09:09.33]
+EN: It's an order from the director.
+RU: NO_MATCH
+
+EN_123 [0:09:09.33 - 0:09:10.54]
+EN: Please hurry!
+RU: NO_MATCH
+
+EN_124 [0:09:12.42 - 0:09:15.63]
+EN: If only you had operated on him, 
+ he would have survived!
+RU: NO_MATCH
+
+EN_125 [0:09:15.63 - 0:09:16.42]
+EN: If only you had...!
+RU(162,163): Если бы вы!..\NМамочка!
+
+EN_126 [0:09:16.42 - 0:09:18.00]
+EN: Mom!
+RU: NO_MATCH
+
+EN_127 [0:09:18.21 - 0:09:20.05]
+EN: Give him back!
+RU: NO_MATCH
+
+EN_128 [0:09:20.05 - 0:09:21.47]
+EN: Give him back...
+RU: NO_MATCH
+
+EN_129 [0:09:20.71 - 0:09:22.80]
+EN: Mom!
+RU: NO_MATCH
+
+EN_130 [0:09:26.39 - 0:09:29.89]
+EN: So my friend and I fought over that dress.
+RU: NO_MATCH
+
+EN_131 [0:09:29.89 - 0:09:31.72]
+EN: They only had one dress of that size left.
+RU: NO_MATCH
+
+EN_132 [0:09:32.18 - 0:09:33.48]
+EN: But you don't have to worry about anything.
+RU(168): Но не беспокойся. Я его перехватила.
+
+EN_133 [0:09:33.48 - 0:09:35.19]
+EN: I made it mine in the end.
+RU: NO_MATCH
+
+EN_134 [0:09:36.89 - 0:09:38.52]
+EN: Hey, are you listening to me?
+RU: NO_MATCH
+
+EN_135 [0:09:41.15 - 0:09:42.52]
+EN: Yeah...
+RU(171): Что с тобой? Ты какой-то мрачный.
+
+EN_136 [0:09:42.52 - 0:09:44.11]
+EN: What is wrong with you?
+RU(171): Что с тобой? Ты какой-то мрачный.
+
+EN_137 [0:09:44.11 - 0:09:45.19]
+EN: You seem out of it.
+RU: NO_MATCH
+
+EN_138 [0:09:45.78 - 0:09:47.74]
+EN: I checked the medical records...
+RU: NO_MATCH
+
+EN_139 [0:09:47.74 - 0:09:51.20]
+EN: The one who operated on the 
+ Turkish man was Dr. Becker.
+RU: NO_MATCH
+
+EN_140 [0:09:51.82 - 0:09:54.08]
+EN: Oh, come on.  You're still talking about that?
+RU: NO_MATCH
+
+EN_141 [0:09:54.08 - 0:09:57.54]
+EN: It's obvious that he took too much 
+ time to begin the treatment.
+RU: NO_MATCH
+
+EN_142 [0:09:57.54 - 0:10:00.00]
+EN: If I were the one who had operated on him...
+RU: NO_MATCH
+
+EN_143 [0:10:00.00 - 0:10:04.46]
+EN: ...maybe I could have saved that Turkish man's life.
+RU(177): ...возможно, того турка удалось бы спасти.
+
+EN_144 [0:10:04.84 - 0:10:06.71]
+EN: Stop it!  We're eating here!
+RU: NO_MATCH
+
+EN_145 [0:10:06.84 - 0:10:09.55]
+EN: But what does she want from me?
+RU: NO_MATCH
+
+EN_146 [0:10:09.55 - 0:10:14.18]
+EN: I only operated on the opera singer because 
+ the director ordered me to.
+RU: NO_MATCH
+
+EN_147 [0:10:14.18 - 0:10:15.72]
+EN: It's not my fault.
+RU: NO_MATCH
+
+EN_148 [0:10:16.09 - 0:10:17.51]
+EN: Don't you think so?
+RU: NO_MATCH
+
+EN_149 [0:10:19.18 - 0:10:20.22]
+EN: Of course.
+RU: NO_MATCH
+
+EN_150 [0:10:22.02 - 0:10:24.77]
+EN: Because people's lives aren't equal.
+RU: NO_MATCH
+
+EN_151 [0:10:41.95 - 0:10:43.74]
+EN: Give him back!
+RU: NO_MATCH
+
+EN_152 [0:10:43.87 - 0:10:45.95]
+EN: Give my husband back!
+RU: NO_MATCH
+
+EN_153 [0:10:45.95 - 0:10:47.20]
+EN: Give him back!
+RU(188): Верните!..
+
+EN_154 [0:11:00.80 - 0:11:01.88]
+EN: Is that the house?
+RU(190): Да. Звонили соседи.
+
+EN_155 [0:11:01.88 - 0:11:04.09]
+EN: Yes, the report was made by one of the neighbors.
+RU: NO_MATCH
+
+EN_156 [0:11:06.47 - 0:11:08.18]
+EN: How many shots were fired?
+RU: NO_MATCH
+
+EN_157 [0:11:08.18 - 0:11:09.56]
+EN: Five or six, sir.
+RU(193): Чей это дом?
+
+EN_158 [0:11:09.56 - 0:11:10.81]
+EN: Who lives in this house?
+RU: NO_MATCH
+
+EN_159 [0:11:11.22 - 0:11:12.81]
+EN: W-Well...
+RU(194): Ну, они сказали, что здесь живет\Nсемья "политических" - Либерты.
+
+EN_160 [0:11:12.81 - 0:11:17.56]
+EN: It's the house of Mr. Liebert, the trade adviser 
+ who fled from East Germany a few days ago.
+RU: NO_MATCH
+
+EN_161 [0:11:17.56 - 0:11:21.07]
+EN: Oh, this is going to be a problem.
+RU: NO_MATCH
+
+EN_162 [0:11:26.36 - 0:11:29.24]
+EN: We're going in on the count or three.
+RU: NO_MATCH
+
+EN_163 [0:11:29.24 - 0:11:30.24]
+EN: One...
+RU: NO_MATCH
+
+EN_164 [0:11:30.24 - 0:11:31.07]
+EN: Two...
+RU: NO_MATCH
+
+EN_165 [0:11:31.07 - 0:11:31.49]
+EN: Three!
+RU: NO_MATCH
+
+EN_166 [0:11:55.22 - 0:11:56.64]
+EN: This is terrible...
+RU: NO_MATCH
+
+EN_167 [0:11:56.64 - 0:11:58.18]
+EN: Who could have...
+RU: NO_MATCH
+
+EN_168 [0:12:01.68 - 0:12:03.43]
+EN: S-Someone is there!
+RU: NO_MATCH
+
+EN_169 [0:12:18.95 - 0:12:21.91]
+EN: Survivor confirmed.  One young girl.
+RU: NO_MATCH
+
+EN_170 [0:12:21.91 - 0:12:23.41]
+EN: A man and a woman are dead.
+RU: NO_MATCH
+
+EN_171 [0:12:23.41 - 0:12:25.37]
+EN: A boy in critical condition.
+RU: NO_MATCH
+
+EN_172 [0:12:25.37 - 0:12:26.45]
+EN: I repeat...
+RU(206): Повторяю, мальчик в критическом состоянии.
+
+EN_173 [0:12:26.45 - 0:12:28.50]
+EN: A boy in critical condition!
+RU: NO_MATCH
+
+EN_174 [0:12:39.67 - 0:12:41.42]
+EN: An emergency case?
+RU: NO_MATCH
+
+EN_175 [0:12:47.27 - 0:12:48.19]
+EN: A bullet in his head?
+RU(209): Пациенты? Только один мальчик?
+
+EN_176 [0:12:49.28 - 0:12:51.53]
+EN: The boy is the only patient?
+RU(210): Да. Его родители были убиты.
+
+EN_177 [0:12:51.53 - 0:12:53.70]
+EN: Yes, his parents died instantly.
+RU(211): Похоже на ограбление.
+
+EN_178 [0:12:53.70 - 0:12:55.70]
+EN: It appears to be a robbery of some kind.
+RU: NO_MATCH
+
+EN_179 [0:12:56.16 - 0:12:59.70]
+EN: Okay, I'll be at the hospital in about five minutes.
+RU: NO_MATCH
+
+EN_180 [0:13:08.88 - 0:13:10.29]
+EN: Oh, father.
+RU(215): Это моя вина, директор Хайнеман...
+
+EN_181 [0:13:11.17 - 0:13:16.46]
+EN: Please forgive me, Dr. Heinemann, for 
+ keeping your daughter out so late.
+RU: NO_MATCH
+
+EN_182 [0:13:16.46 - 0:13:18.72]
+EN: What are you saying, Tenma?
+RU(218): Ева - твоя невеста.
+
+EN_183 [0:13:18.72 - 0:13:21.76]
+EN: Eva is your fiancé, isn't she?
+RU: NO_MATCH
+
+EN_184 [0:13:21.76 - 0:13:22.89]
+EN: What do you say?
+RU(219): Не зайдёшь ли на чашку чая?
+
+EN_185 [0:13:22.89 - 0:13:25.10]
+EN: Would you like to have a cup of tea?
+RU: NO_MATCH
+
+EN_186 [0:13:27.43 - 0:13:31.85]
+EN: Have you given the wedding 
+ date to your parents in Japan?
+RU: NO_MATCH
+
+EN_187 [0:13:31.85 - 0:13:33.44]
+EN: Y-Yes.
+RU(222): Но мой отец - простой врач\Nв маленькой клинике.
+
+EN_188 [0:13:33.44 - 0:13:37.15]
+EN: But my father is only a practitioner in a small hospital...
+RU: NO_MATCH
+
+EN_189 [0:13:37.15 - 0:13:40.03]
+EN: ...so I'm not sure if he can make 
+ time to come to Germany.
+RU: NO_MATCH
+
+EN_190 [0:13:40.48 - 0:13:45.91]
+EN: It's perfect opportunity, so they
+ should enjoy an overseas trip.
+RU: NO_MATCH
+
+EN_191 [0:13:45.91 - 0:13:48.91]
+EN: Yes, since we're the ones who invited them.
+RU: NO_MATCH
+
+EN_192 [0:13:49.53 - 0:13:51.33]
+EN: Thank you very much.
+RU(227): Вы так много для меня делаете, директор.
+
+EN_193 [0:13:51.33 - 0:13:54.41]
+EN: I'm indebted to you for everything.
+RU: NO_MATCH
+
+EN_194 [0:13:54.83 - 0:13:56.87]
+EN: When you first arrived in Germany...
+RU(228): Когда ты приехал в Германию,\NКэндзо, я приняла тебя за школьника.
+
+EN_195 [0:13:56.87 - 0:13:59.33]
+EN: ...I thought you were just some high school kid.
+RU: NO_MATCH
+
+EN_196 [0:14:00.84 - 0:14:04.92]
+EN: But now, you're the number one young surgeon of Eisler Memorial.
+RU: NO_MATCH
+
+EN_197 [0:14:05.84 - 0:14:07.63]
+EN: By the way, Kenzou...
+RU(231): Сейчас ты исследуешь тему:
+
+EN_198 [0:14:07.63 - 0:14:13.01]
+EN: Your current research into cerebral ischemia 
+ and subarachnoid hemorrhages...
+RU: NO_MATCH
+
+EN_199 [0:14:13.39 - 0:14:17.64]
+EN: Yes, we're currently making a canine model 
+ of the subarachnoid hemorrhages.
+RU: NO_MATCH
+
+EN_200 [0:14:17.64 - 0:14:20.85]
+EN: Sorry, but that research has to be canceled.
+RU: NO_MATCH
+
+EN_201 [0:14:20.85 - 0:14:21.85]
+EN: Excuse me?
+RU(236): Я делаю доклад на следующем ежегодном\Nсимпозиуме Ассоциации Врачей Европы.
+
+EN_202 [0:14:22.48 - 0:14:29.23]
+EN: In the upcoming European Medical Science Symposium, 
+ I am making a presentation as a speaker.
+RU: NO_MATCH
+
+EN_203 [0:14:29.23 - 0:14:32.11]
+EN: I want you to prepare the manuscripts for me.
+RU: NO_MATCH
+
+EN_204 [0:14:34.15 - 0:14:37.78]
+EN: But... we're near the completion of our research.
+RU: NO_MATCH
+
+EN_205 [0:14:37.78 - 0:14:41.08]
+EN: Man, you should have been there this afternoon.
+RU: NO_MATCH
+
+EN_206 [0:14:41.08 - 0:14:43.16]
+EN: What happened father?
+RU(241): Какие-то подозрительные гражданские\Nактивисты ворвались сегодня в клинику...
+
+EN_207 [0:14:43.16 - 0:14:47.12]
+EN: Some suspicious civilian group 
+ came rushing into the hospital.
+RU: NO_MATCH
+
+EN_208 [0:14:47.12 - 0:14:50.88]
+EN: They made a commotion about the operation we 
+ performed on the opera singer the other day.
+RU: NO_MATCH
+
+EN_209 [0:14:50.88 - 0:14:55.13]
+EN: They accused us of pushing back the case 
+ of the Turkish man that came before him.
+RU: NO_MATCH
+
+EN_210 [0:14:56.97 - 0:14:59.09]
+EN: They completely misunderstood the situation.
+RU(245): Операция турка началась раньше.
+
+EN_211 [0:14:59.09 - 0:15:02.55]
+EN: The Turkish man's operation was performed first.
+RU: NO_MATCH
+
+EN_212 [0:15:02.55 - 0:15:06.14]
+EN: There was nothing wrong with our procedures.
+RU: NO_MATCH
+
+EN_213 [0:15:09.89 - 0:15:10.81]
+EN: Isn't that right?
+RU(248): А... Да.
+
+EN_214 [0:15:11.31 - 0:15:13.77]
+EN: S-Sure...
+RU(249): Господи, эти чудаки воображают\Nврачей какими-то добровольцами.
+
+EN_215 [0:15:13.77 - 0:15:18.32]
+EN: I swear, they think doctors are some kind of volunteers or something.
+RU: NO_MATCH
+
+EN_216 [0:15:18.32 - 0:15:22.36]
+EN: Even before saving lives, we doctors value academics first.
+RU: NO_MATCH
+
+EN_217 [0:15:22.36 - 0:15:23.36]
+EN: Isn't that right?
+RU: NO_MATCH
+
+EN_218 [0:15:27.16 - 0:15:30.79]
+EN: In any case, I'll leave the manuscripts 
+ for my presentation to you.
+RU: NO_MATCH
+
+EN_219 [0:15:30.79 - 0:15:34.16]
+EN: I expect a great deal from you, Tenma.
+RU: NO_MATCH
+
+EN_220 [0:15:36.46 - 0:15:38.08]
+EN: Thank you...
+RU: NO_MATCH
+
+EN_221 [0:15:55.35 - 0:15:56.27]
+EN: Shit!
+RU: NO_MATCH
+
+EN_222 [0:16:08.07 - 0:16:08.91]
+EN: Where is the patient?
+RU: NO_MATCH
+
+EN_223 [0:16:08.91 - 0:16:10.24]
+EN: They have taken him inside.
+RU: NO_MATCH
+
+EN_224 [0:16:13.54 - 0:16:14.50]
+EN: What is his condition?
+RU(259): Давление 72 на 50.
+
+EN_225 [0:16:14.50 - 0:16:16.83]
+EN: Blood pressure, 72/50
+RU: NO_MATCH
+
+EN_226 [0:16:16.83 - 0:16:18.87]
+EN: Pulse, 137.
+RU(261): Пуля пробила лобную кость.
+
+EN_227 [0:16:18.87 - 0:16:21.00]
+EN: So the bullet entered his skull from the front...
+RU: NO_MATCH
+
+EN_228 [0:16:21.71 - 0:16:23.13]
+EN: We need X-Rays immediately!
+RU: NO_MATCH
+
+EN_229 [0:16:23.13 - 0:16:24.25]
+EN: Yes, sir!
+RU: NO_MATCH
+
+EN_230 [0:16:27.59 - 0:16:28.97]
+EN: Oh, Dr. Tenma!
+RU: NO_MATCH
+
+EN_231 [0:16:33.01 - 0:16:34.05]
+EN: Who is this girl?
+RU(266): Младшая сестра-близнец того мальчика.
+
+EN_232 [0:16:34.05 - 0:16:36.31]
+EN: She is the twin sister of that boy just now.
+RU: NO_MATCH
+
+EN_233 [0:16:36.93 - 0:16:37.89]
+EN: Any injuries?
+RU(268): Никаких. Однако у неё сильный шок.
+
+EN_234 [0:16:37.89 - 0:16:39.02]
+EN: None.
+RU(268): Никаких. Однако у неё сильный шок.
+
+EN_235 [0:16:39.02 - 0:16:41.73]
+EN: It appears she suffered a massive mental shock.
+RU: NO_MATCH
+
+EN_236 [0:16:47.48 - 0:16:48.07]
+EN: What is it?
+RU(270): Убей...
+
+EN_237 [0:16:49.40 - 0:16:50.57]
+EN: Kill. Him.
+RU: NO_MATCH
+
+EN_238 [0:16:56.95 - 0:16:58.12]
+EN: Dr. Tenma!
+RU: NO_MATCH
+
+EN_239 [0:16:59.58 - 0:17:02.70]
+EN: Head shots and CT scans are ready.
+RU: NO_MATCH
+
+EN_240 [0:17:02.70 - 0:17:04.58]
+EN: Okay, I'll be right there.
+RU: NO_MATCH
+
+EN_241 [0:17:06.12 - 0:17:09.67]
+EN: It entered the head from the front, and embedded itself near the center of the brain.
+RU: NO_MATCH
+
+EN_242 [0:17:10.33 - 0:17:11.75]
+EN: Yes...
+RU(276): Будет трудно.
+
+EN_243 [0:17:11.75 - 0:17:13.67]
+EN: This will be difficult.
+RU: NO_MATCH
+
+EN_244 [0:17:16.30 - 0:17:18.92]
+EN: The bullet grazed the left side 
+ of the middle cerebral artery.
+RU: NO_MATCH
+
+EN_245 [0:17:19.63 - 0:17:23.26]
+EN: I see.  Dr. Tenma is right!
+RU(278): Вон оно что! Доктор Тэнма
+
+EN_246 [0:17:23.26 - 0:17:25.22]
+EN: This won't be easy.
+RU(281): Малейшее смещение пули грозит\Nразрывом артерии и летальной потерей крови.
+
+EN_247 [0:17:25.22 - 0:17:27.31]
+EN: If we move the bullet even a little...
+RU(281): Малейшее смещение пули грозит\Nразрывом артерии и летальной потерей крови.
+
+EN_248 [0:17:27.52 - 0:17:30.10]
+EN: ...it might rupture and cause a massive hemorrhage.
+RU: NO_MATCH
+
+EN_249 [0:17:33.77 - 0:17:35.31]
+EN: Sorry, I was late.
+RU(283): Доктор Бэккер,
+
+EN_250 [0:17:35.65 - 0:17:37.23]
+EN: Dr. Becker!
+RU(284): Вы же дежурный, как вы можете опаздывать?!
+
+EN_251 [0:17:37.23 - 0:17:39.94]
+EN: Why are you late when you're 
+ supposed to be on duty?!
+RU: NO_MATCH
+
+EN_252 [0:17:40.61 - 0:17:42.74]
+EN: We'll do a full frontal craniotomy on both sides...
+RU(286): Затем удаляем фрагменты кости\Nи кусочки загрязнённого мозга.
+
+EN_253 [0:17:42.74 - 0:17:44.11]
+EN: ...remove the bone fragments...
+RU: NO_MATCH
+
+EN_254 [0:17:44.11 - 0:17:46.36]
+EN: ...and damaged brain matter as well.
+RU(287): Аккуратно извлекаем пулю,\Nи проводим ангиопластику артерии.
+
+EN_255 [0:17:46.36 - 0:17:48.70]
+EN: We'll then carefully remove the bullet...
+RU(287): Аккуратно извлекаем пулю,\Nи проводим ангиопластику артерии.
+
+EN_256 [0:17:48.70 - 0:17:50.66]
+EN: ...and finally, repair the artery.
+RU: NO_MATCH
+
+EN_257 [0:17:53.54 - 0:17:55.71]
+EN: This operation will take time, but...
+RU: NO_MATCH
+
+EN_258 [0:17:55.71 - 0:17:57.29]
+EN: Everyone, let's give it our best!
+RU: NO_MATCH
+
+EN_259 [0:17:58.96 - 0:18:00.88]
+EN: Blood pressure, 120/80.
+RU(290): Пульс - 92, пациент в норме.
+
+EN_260 [0:18:00.88 - 0:18:02.29]
+EN: Pulse, 92.
+RU: NO_MATCH
+
+EN_261 [0:18:02.29 - 0:18:03.92]
+EN: Everything looks to be in good condition.
+RU: NO_MATCH
+
+EN_262 [0:18:03.92 - 0:18:05.13]
+EN: Anesthetics administered.
+RU: NO_MATCH
+
+EN_263 [0:18:14.51 - 0:18:15.89]
+EN: Dr. Tenma!
+RU: NO_MATCH
+
+EN_264 [0:18:15.89 - 0:18:16.39]
+EN: Yes?
+RU: NO_MATCH
+
+EN_265 [0:18:17.02 - 0:18:18.64]
+EN: This isn't your operation.
+RU(295): Поспешите в операционную No1.
+
+EN_266 [0:18:18.64 - 0:18:21.60]
+EN: You must go to Operating Room #1 immediately.
+RU: NO_MATCH
+
+EN_267 [0:18:22.52 - 0:18:26.90]
+EN: The Mayor, Mr. Roedecker, has collapsed 
+ from a cerebral thrombosis.
+RU: NO_MATCH
+
+EN_268 [0:18:28.40 - 0:18:30.57]
+EN: They're bringing him in by helicopter right now.
+RU(300): Через 10 минут он будет здесь.
+
+EN_269 [0:18:30.57 - 0:18:33.11]
+EN: They should be arriving in ten minutes.
+RU(301): В таком случае\Nсвяжитесь с доктором Бойером.
+
+EN_270 [0:18:33.11 - 0:18:36.11]
+EN: Then please contact Dr. Boyer.
+RU: NO_MATCH
+
+EN_271 [0:18:36.78 - 0:18:39.24]
+EN: They're afraid that his artery may be blocked.
+RU(303): Это значит, оперировать будешь ты.
+
+EN_272 [0:18:39.24 - 0:18:41.66]
+EN: If that is the case, you must operate on him!
+RU: NO_MATCH
+
+EN_273 [0:18:42.83 - 0:18:47.42]
+EN: But I was about to start the operation on that child!
+RU: NO_MATCH
+
+EN_274 [0:18:51.04 - 0:18:52.88]
+EN: It's an order from the director.
+RU: NO_MATCH
+
+EN_275 [0:18:59.09 - 0:19:00.76]
+EN: Yes, this is Tenma.
+RU: NO_MATCH
+
+EN_276 [0:19:01.51 - 0:19:05.18]
+EN: Oh, Tenma.  Please take care of the Mayor's case.
+RU: NO_MATCH
+
+EN_277 [0:19:05.18 - 0:19:08.77]
+EN: I've already contacted Dr. Eisen and Dr. Boyer.
+RU: NO_MATCH
+
+EN_278 [0:19:08.77 - 0:19:10.23]
+EN: This situation should be acceptable, right?
+RU(310): Но директор,\Nя уже начинаю другую операцию.
+
+EN_279 [0:19:10.23 - 0:19:14.86]
+EN: But Director, I was about to start 
+ on another operation!
+RU: NO_MATCH
+
+EN_280 [0:19:14.86 - 0:19:17.57]
+EN: Just leave that to Dr. Becker.
+RU: NO_MATCH
+
+EN_281 [0:19:19.07 - 0:19:21.03]
+EN: W-With all due respect, sir!
+RU(313): ...но у моего пациента пуля задела\Nлевую среднюю артерию мозга.
+
+EN_282 [0:19:21.03 - 0:19:23.20]
+EN: The patient in the operation I'm about to conduct...
+RU(313): ...но у моего пациента пуля задела\Nлевую среднюю артерию мозга.
+
+EN_283 [0:19:23.20 - 0:19:25.78]
+EN: ...had a bullet graze the left side of his middle cerebral artery...
+RU: NO_MATCH
+
+EN_284 [0:19:25.78 - 0:19:28.41]
+EN: ...and it'll be a very difficult operation!
+RU: NO_MATCH
+
+EN_285 [0:19:28.41 - 0:19:30.87]
+EN: However, I'm confident that I can save him.
+RU: NO_MATCH
+
+EN_286 [0:19:31.66 - 0:19:34.29]
+EN: I'm going to leave the Mayor's case to Dr. Boyer.
+RU: NO_MATCH
+
+EN_287 [0:19:34.29 - 0:19:37.37]
+EN: I must operate on the boy for him to survive.
+RU: NO_MATCH
+
+EN_288 [0:19:38.00 - 0:19:42.59]
+EN: Anyway, Tenma, please give everything 
+ you have to save the Mayor's life.
+RU: NO_MATCH
+
+EN_289 [0:19:43.42 - 0:19:46.17]
+EN: The Mayor has already promised...
+RU(319): Он обещал основательно увеличить субсидии\Nнашей клинике при следующей инспекции.
+
+EN_290 [0:19:46.17 - 0:19:52.09]
+EN: ...to greatly increase our subsidy 
+ at the next medical assessment.
+RU: NO_MATCH
+
+EN_291 [0:19:53.10 - 0:19:55.81]
+EN: We can't have him die yet.
+RU: NO_MATCH
+
+EN_292 [0:19:56.89 - 0:19:59.31]
+EN: I'm counting on you, Tenma.
+RU(321): Рассчитываю на тебя, Тэнма.\NЯ возлагаю на тебя большие надежды.
+
+EN_293 [0:19:59.31 - 0:20:01.60]
+EN: I expect a great deal from you.
+RU: NO_MATCH
+
+EN_294 [0:20:04.19 - 0:20:05.27]
+EN: Yes, sir...
+RU: NO_MATCH
+
+EN_295 [0:20:09.98 - 0:20:11.86]
+EN: The Mayor has arrived at the heliport!
+RU: NO_MATCH
+
+EN_296 [0:20:12.95 - 0:20:15.61]
+EN: Get to angio immediately after the CT.
+RU: NO_MATCH
+
+EN_297 [0:20:15.61 - 0:20:17.66]
+EN: Please confirm which areas are blocked.
+RU: NO_MATCH
+
+EN_298 [0:20:24.12 - 0:20:27.25]
+EN: Hey, you better make preparations, Dr. Tenma.
+RU: NO_MATCH
+
+EN_299 [0:20:27.25 - 0:20:30.54]
+EN: We're relying on those brilliant skills of yours.
+RU: NO_MATCH
+
+EN_300 [0:20:35.05 - 0:20:38.72]
+EN: They think doctors are some kind of 
+ volunteers or something...
+RU: NO_MATCH
+
+EN_301 [0:20:39.59 - 0:20:44.60]
+EN: Even before saving lives, we doctors 
+ value academics first.
+RU: NO_MATCH
+
+EN_302 [0:20:44.60 - 0:20:47.06]
+EN: Isn't that right?
+RU: NO_MATCH
+
+EN_303 [0:20:47.06 - 0:20:52.31]
+EN: I merely operated on that opera singer 
+ like the director told me to.
+RU: NO_MATCH
+
+EN_304 [0:20:52.31 - 0:20:53.90]
+EN: It is not my fault.
+RU: NO_MATCH
+
+EN_305 [0:20:53.90 - 0:20:55.77]
+EN: Of course.
+RU(336): Не все жизни равноценны.
+
+EN_306 [0:20:55.77 - 0:20:59.07]
+EN: Because people's lives aren't equal.
+RU: NO_MATCH
+
+EN_307 [0:21:02.32 - 0:21:04.28]
+EN: Give him back!
+RU: NO_MATCH
+
+EN_308 [0:21:04.82 - 0:21:08.08]
+EN: If only you had operated on him, he would have survived!
+RU: NO_MATCH
+
+EN_309 [0:21:08.08 - 0:21:16.00]
+EN: Give him back!  Give him back!
+RU: NO_MATCH
+
+EN_310 [0:21:19.92 - 0:21:21.71]
+EN: What is wrong, Dr. Tenma?
+RU: NO_MATCH
+
+EN_311 [0:21:27.72 - 0:21:28.76]
+EN: I...
+RU: NO_MATCH
+
+EN_312 [0:21:30.43 - 0:21:32.26]
+EN: I have an operation waiting for me in there.
+RU: NO_MATCH
+
+EN_313 [0:21:35.56 - 0:21:37.52]
+EN: H-Hey, Dr. Tenma!
+RU(353): Это приказ директора!
+
+EN_314 [0:21:37.98 - 0:21:40.14]
+EN: This is an order from the director!
+RU(354): Бургомистр проходит томографию.
+
+EN_315 [0:21:40.14 - 0:21:42.85]
+EN: The Mayor is currently having a CT scan done on him.
+RU: NO_MATCH
+
+EN_316 [0:21:42.85 - 0:21:45.06]
+EN: All doctors, please report to the trace-reading 
+ room immediately.
+RU: NO_MATCH
+
+EN_317 [0:21:45.06 - 0:21:45.73]
+EN: Okay!
+RU(357): Подождите, доктор Тэнма.
+
+EN_318 [0:21:46.19 - 0:21:48.15]
+EN: Wait, Dr. Tenma!
+RU: NO_MATCH
+
+EN_319 [0:21:48.15 - 0:21:49.65]
+EN: Dr. Tenma!
+RU: NO_MATCH
+
+EN_320 [0:21:59.37 - 0:22:00.79]
+EN: You'll be okay.
+RU: NO_MATCH
+
+EN_321 [0:22:00.79 - 0:22:02.16]
+EN: Hang in there!
+RU(361): Я спасу тебя.
+
+EN_322 [0:22:02.16 - 0:22:04.33]
+EN: I'll save you!
+RU: NO_MATCH
+
+EN_323 [0:22:19.39 - 0:22:21.26]
+EN: Kill... him....
+RU: NO_MATCH
+
+EN_324 [0:22:23.64 - 0:22:25.22]
+EN: Kill... him....
+RU: NO_MATCH
